@@ -6,6 +6,7 @@ Build a simple locally hosted version of ChatGPT in less than 100 lines of code.
 
 To run the example code, you need to create an [OpenAI API key](https://platform.openai.com/account/api-keys)
 
+
 1. Install requirments using
 ```bash
 $ pip install -r requirements.txt
@@ -18,6 +19,7 @@ OPENAI_API_KEY = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 ```bash
 $ python server.py
 ```
+
 
 ## The best part
 
